@@ -1,0 +1,55 @@
+/* preset css */
+* {
+    box-sizing: border-box;
+  }
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  body {
+    color: #333333;
+    background-color: #e0e0e0;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-print-color-adjust: exact;
+  }
+  h1 {
+    font-size: 80px;
+  }
+  h2 {
+    font-size: 22px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  h4 {
+    font-size: 16px;
+  }
+  h5 {
+    font-size: 16px;
+  }
+  h6 {
+    font-size: 14px;
+  }
+  ul,
+  ol,
+  figure {
+    padding: 0px;
+    margin: 0px;
+  }
+  strong {
+    color: #008080;
+  }
+  
+  /* main styles */
+  /* a4: 595, 842*/
+  .container {
+    position: relative;
+    background-color: #fff;
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.2);
+    width: 900px;
+    height: 1273px;
+    margin: 10px auto;
+    padding: 80px 55px;
+  }
+  

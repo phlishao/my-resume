@@ -1,0 +1,12 @@
+.row{
+    margin-left: -0.1px;
+    margin-right: -0.1px;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.col-6{
+    
+    width: 50%;
+    float: left;
+    padding: 15px;
+}
